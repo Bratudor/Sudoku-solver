@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1555197161 source:c:\users\tudor\desktop\sudoku\sudoku\main.cpp
+	<iostream>
+	<fstream>
+
+1555197161 source:c:\users\tudor\desktop\sudoku toate\sudoku\sudoku\main.cpp
+	<iostream>
+	<fstream>
+
